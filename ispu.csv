@@ -1,4 +1,4 @@
-date,pm10,pm2.5,so2,co,o3,no2,max,critical component,category
+date,pm10,pm2.5,so2,co,o3,no2,max,critical_component,category
 01/01/2021,7,23,0,21,0,0,23,PM2.5,Baik
 01/02/2021,7,23,0,21,0,0,23,PM2.5,Baik
 01/03/2021,9,30,1,25,0,0,30,PM2.5,Baik
