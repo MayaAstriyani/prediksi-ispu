@@ -57,8 +57,8 @@ pm10,pm2.5,so2,co,o3,no2,category
 16,0,2,48,0,0,Baik
 17,0,3,60,0,0,Sedang
 13,0,3,59,0,0,Sedang
-16,0,46,58,NaN,0,Sedang
-17,0,71,71,NaN,0,Sedang
+16,0,46,58,0,0,Sedang
+17,0,71,71,0,0,Sedang
 16,0,2,50,0,0,Baik
 24,0,3,54,16,0,Sedang
 13,0,3,42,12,0,Baik
